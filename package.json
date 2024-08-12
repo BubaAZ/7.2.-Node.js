@@ -1,0 +1,31 @@
+{
+  "name": "7.2.-node",
+  "version": "1.0.0",
+  "description": "homework 7.2",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BubaAZ/7.2.-Node.js.git"
+  },
+  "keywords": [
+    "7.2.-Node.js",
+    "Alex"
+  ],
+  "author": "Zakharov Alexsander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BubaAZ/7.2.-Node.js/issues"
+  },
+  "homepage": "https://github.com/BubaAZ/7.2.-Node.js#readme",
+ "devDependencies": {
+    "@eslint/js": "^9.8.0",
+    "eslint": "^9.8.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3"
+  }
+}
